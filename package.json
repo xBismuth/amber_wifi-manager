@@ -1,0 +1,11 @@
+{
+  "name": "amber-cafe-wifi-manage",
+  "private": true,
+  "scripts": {
+    "start": "npm start --prefix jang_ias",
+    "dev": "npm run dev --prefix jang_ias",
+    "build": "npm run build --prefix jang_ias",
+    "preview": "npm run preview --prefix jang_ias",
+    "lint": "npm run lint --prefix jang_ias"
+  }
+}
